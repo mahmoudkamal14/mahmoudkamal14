@@ -16,9 +16,9 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MahmoudKamal14?tab=repositories)**.
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mahmoudkamalx14?tab=repositories)**.
 
-- 📫 How to reach me >> **[Facebook Account](https://www.facebook.com/Mahmoud.kamal1110)**.
+- 📫 How to reach me >> **[Facebook Account](https://www.facebook.com/mahmoudkamalx14)**.
   
 
 
@@ -51,26 +51,26 @@
 
 ## 🌟 Featured Projects
 
-- [Chat App](https://github.com/MahmoudKamal14/chat):
+- [Chat App](https://github.com/mahmoudkamalx14/chat):
   is a simple and efficient application that allows users to communicate quickly and instantly. Enjoy sending text messages and multimedia with ease, receive instant notifications to stay connected. Start your conversation today with simplicity at your fingertips! 📱💬.
   <br><br>
-- [News App](https://github.com/MahmoudKamal14/News-App):
+- [News App](https://github.com/mahmoudkamalx14/News-App):
   Introducing our News App - your go-to source for the latest updates! Stay informed with quick access to breaking news, articles, and multimedia content. The app provides a user-friendly interface, making it easy to navigate and discover trending stories. Receive timely notifications to stay ahead, and personalize your news feed based on your interests. Dive into the world of news effortlessly and stay connected with the News App! 📰📲.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmoudKamalx14&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
 ## 🛠️ Languages and Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudKamalx14&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkamalx14&layout=compact&theme=radical)
 
 
 ## 📫 Contact Me
 
 - **Email**: [mkelsafty1838@gmail.com](mailto:mkelsafty1838@gmail.com)
-- **LinkedIn**: [Mahmoud Kamal](https://www.linkedin.com/in/mahmoud-kamal-188309245/)
-- **Facebook**: [Mahmoud Kamal](https://www.facebook.com/Mahmoud.kamal1110)
+- **LinkedIn**: [Mahmoud Kamal](https://www.linkedin.com/in/mahmoudkamal14/)
+- **Facebook**: [Mahmoud Kamal](https://www.facebook.com/mahmoudkamalx14)
 - **Twitter**: [@EngMahmoud87407](https://twitter.com/EngMahmoud87407)
   
 
