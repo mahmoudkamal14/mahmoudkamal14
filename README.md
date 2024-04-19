@@ -52,14 +52,16 @@
 ## 🌟 Featured Projects
 
 - [Chat App](https://github.com/mahmoudkamalx14/chat):
-  is a simple and efficient application that allows users to communicate quickly and instantly. Enjoy sending text messages and multimedia with ease, receive instant notifications to stay connected. Start your conversation today with simplicity at your fingertips! 📱💬.
+  is a simple and efficient application that allows users to communicate quickly and instantly.
+  Enjoy sending text messages and multimedia with ease, receive instant notifications to stay connected.
+  Start your conversation today with simplicity at your fingertips! 📱💬.
   <br><br>
 - [News App](https://github.com/mahmoudkamalx14/News-App):
   Introducing our News App - your go-to source for the latest updates! Stay informed with quick access to breaking news, articles, and multimedia content. The app provides a user-friendly interface, making it easy to navigate and discover trending stories. Receive timely notifications to stay ahead, and personalize your news feed based on your interests. Dive into the world of news effortlessly and stay connected with the News App! 📰📲.
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&count_private=false&hide=contribs,prs&theme=radical)
 
 ## 🛠️ Languages and Tools
 
