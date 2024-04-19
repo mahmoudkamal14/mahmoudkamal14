@@ -70,10 +70,10 @@
 
 ## 📫 Contact Me
 
-- **Email**: [![Facebook](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1200px-Facebook_f_logo_%282019%29.svg.png)](mailto:mkelsafty1838@gmail.com)
+- **Email**:    [mkelsafty1838@gmail.com](mailto:mkelsafty1838@gmail.com)
 - **LinkedIn**: [Mahmoud Kamal](https://www.linkedin.com/in/mahmoudkamal14/)
 - **Facebook**: [Mahmoud Kamal](https://www.facebook.com/mahmoudkamalx14)
-- **Twitter**: [@EngMahmoud87407](https://twitter.com/EngMahmoud87407)
+- **Twitter**:  [@EngMahmoud87407](https://twitter.com/EngMahmoud87407)
   
 
 ## Enjoy exploring my GitHub repositories! 😊
