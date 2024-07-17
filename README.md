@@ -74,7 +74,7 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/mahmoudkamalx14"><img src="https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="niranjandahal's GitHub stats" /></a>
+<a href="http://www.github.com/mahmoudkamalx14"><img src="https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahmoudkamalx14's GitHub stats" /></a>
 
 <a href="http://www.github.com/mahmoudkamalx14"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudkamalx14&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
@@ -82,7 +82,7 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/niranjandahal/Ehaat_web-B2C_model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjandahal&repo=Ehaat_web-B2C_model&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/niranjandahal/MovieApp_Flutter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=niranjandahal&repo=MovieApp_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/mahmoudkamalx14/Ehaat_web-B2C_model" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudkamalx14&repo=Ehaat_web-B2C_model&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mahmoudkamalx14/MovieApp_Flutter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mahmoudkamalx14&repo=MovieApp_Flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
