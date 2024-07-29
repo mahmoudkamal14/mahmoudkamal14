@@ -61,7 +61,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&count_private=false&hide=contribs,prs&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&theme=radical)
 
 ## 🛠️ Languages and Tools
 
