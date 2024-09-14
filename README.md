@@ -1,11 +1,15 @@
-# Hi there, I'm Mahmoud 👋
-## Flutter Developer
+<h1 align="center">HI! 👋 <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> I am Mahmoud Kamal, Welcome To My Github Profile ♥
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
+</p>
+</h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; margin-right: 20px;">
-    <img src="https://image.freepik.com/free-vector/professional-programmer-engineer-writing-code_3446-693.jpg" alt="Profile Image" width="200" style="border-radius: 20%;">
-  </div>
-</div>
+<!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Mahmoud Kamal, Welcome To My Github Profile ♥  -->
+
+
+
+
+
 
 
 ## 🙋‍♂️ About Me:
