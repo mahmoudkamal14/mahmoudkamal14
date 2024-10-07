@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🌱 I’m currently learning **Mobile Development by using Flutter.**
+- 🌱 I’m currently learning **Mobile Applications Development by using Flutter.**
 
 - ✒️ I’m currently Studying **Computer Science** at Fayoum University.
 
