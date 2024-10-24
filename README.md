@@ -18,15 +18,15 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🌱 I’m currently learning **Mobile Applications Development by using Flutter.**
+- 🌱 I’m currently diving deep into **Mobile Application Development with Flutter**, creating cross-platform apps that are both functional and visually appealing.
 
-- ✒️ I’m currently Studying **Computer Science** at Fayoum University.
+- ✒️ I’m pursuing a degree in **Computer Science at Fayoum University**, continuously expanding my knowledge in software development and problem-solving.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**.
+- 👯 I’m eager to collaborate on **Open Source Projects**, contributing to the community and growing alongside fellow developers.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/mahmoudkamalx14?tab=repositories)**.
+- 👨‍💻 You can explore all of my projects in **[My GitHub Repository](https://github.com/mahmoudkamalx14?tab=repositories)**.
 
-- 📫 How to reach me >> **[Facebook Account](https://www.facebook.com/mahmoudkamalx14)**.
+- 📫 Feel free to reach out to me on **[Facebook](https://www.facebook.com/mahmoudkamalx14)** for inquiries, collaboration, or just to connect!.
   
 
 
