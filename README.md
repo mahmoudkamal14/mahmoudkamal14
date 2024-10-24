@@ -4,16 +4,6 @@
 </p>
 </h1>
 
-<!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Mahmoud Kamal, Welcome To My Github Profile ♥  -->
-
-
-
-
-
-
-
-
-
 
 
 ## 🙋‍♂️ About Me:
@@ -56,16 +46,6 @@
     ### Version Control
      - **Git:** Distributed version control system for tracking changes and collaboration.
 
-
-## 🌟 Featured Projects
-
-- [E- Commerce App](https://github.com/mahmoudkamalx14/Marketi):
-  "Marketi" is a user-friendly app that allows users to create an account and explore a wide range of available products.
-  With the ability to search for specific items, add them to their shopping cart or wishlist,
-  and update their personal information.
-  <br><br>
-- [News App](https://github.com/mahmoudkamalx14/News-App):
-  Introducing our News App - your go-to source for the latest updates! Stay informed with quick access to breaking news, articles, and multimedia content. The app provides a user-friendly interface, making it easy to navigate and discover trending stories. Receive timely notifications to stay ahead, and personalize your news feed based on your interests. Dive into the world of news effortlessly and stay connected with the News App! 📰📲.
 
 
 ## 📊 GitHub Stats:
