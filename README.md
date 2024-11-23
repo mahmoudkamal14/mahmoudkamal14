@@ -26,25 +26,6 @@
   - Comprehensive program in computer science covering various areas such as software engineering and system design. Learned algorithm design and implementation.
 
 
-## 🚀 Skills and Technologies
-
-  - **Dart:** The programming language used for building the Flutter web application.
-  - **Flutter Framework:** A UI toolkit for creating natively compiled applications for mobile, web, and desktop.
-
-    ### State Management
-     - **Flutter Bloc:** A powerful state management library for Dart and Flutter applications.
-
-    ### Data Handling
-     - **Rest API:** Integration with external data sources for dynamic content.
-     - **Firebase:** Cloud-based data storage and real-time synchronization.
-     - **SQFLite:** Local database for efficient offline data handling.
-
-    ### Design Patterns & Architecture
-     - **MVVM Design Pattern:** Separation of concerns using the Model-View-ViewModel pattern.
-     - **Clean Architecture:** A modular and scalable architecture for maintaining a clean codebase.
-
-    ### Version Control
-     - **Git:** Distributed version control system for tracking changes and collaboration.
 
 
 
