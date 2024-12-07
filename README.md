@@ -57,6 +57,12 @@
 </h3>
 
 
+<br/>
+<br/>
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mahmoudkamalx14}/count.svg" /></p> 
+</div>
 
 ## 📫 Contact Me
 
