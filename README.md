@@ -67,7 +67,7 @@
 ## 📫 Contact Me
 
 - **Email**:    [mkelsafty1838@gmail.com](mailto:mkelsafty1838@gmail.com)
-- **LinkedIn**: [Mahmoud Kamal](https://www.linkedin.com/in/mahmoudkamal14/)
+- **LinkedIn**: [Mahmoud Kamal](https://www.linkedin.com/in/mahmoudkamal14)
 - **Facebook**: [Mahmoud Kamal](https://www.facebook.com/mahmoudkamalx14)
 - **Twitter**:  [@EngMahmoud87407](https://twitter.com/EngMahmoud87407)
   
