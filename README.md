@@ -24,36 +24,32 @@
 
 - **Computer Science** | Fayoum University | Period (2021/2025)
   - Comprehensive program in computer science covering various areas such as software engineering and system design. Learned algorithm design and implementation.
-
-
-
+    
 
 
 ## 📊 GitHub Stats:
 
-
 <p align="center">
-    <a href="https://github.com/mahmoudkamalx14/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mahmoudkamalx14's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudkamalx14&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/mahmoudkamalx14">
+        <img title="🔥 Get streak stats for your profile" alt="mahmoudkamalx14's streak" src="https://streak-stats.demolab.com?user=mahmoudkamalx14&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-  
 </p>
 
-<a href="https:https://github.com/mahmoudkamalx14/github-readme-stats">
-    <img align="left"  alt="mahmoudkamalx14's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/mahmoudkamalx14/github-readme-stats">
-    <img align="right" alt="mahmoudkamalx14's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkamalx14&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br>
-
-
+<p align="center">
+    <a href="https://github.com/mahmoudkamalx14">
+        <img alt="mahmoudkamalx14's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/mahmoudkamalx14">
+        <img alt="mahmoudkamalx14's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkamalx14&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
+</p>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;I'm+Long+Life+Learner">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;I'm+a+Lifelong+Learner" />
 </h3>
 
 
