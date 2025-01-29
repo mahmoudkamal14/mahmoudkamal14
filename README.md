@@ -37,7 +37,7 @@
 
 <p align="center">
     <a href="https://github.com/mahmoudkamalx14">
-        <img alt="mahmoudkamalx14's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+        <img alt="mahmoudkamalx14's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=0D1117,1e293b,0D1117&title_color=38bdf8&icon_color=14b8a6&text_color=cbd5e1" />
     </a>
     <a href="https://github.com/mahmoudkamalx14">
         <img alt="mahmoudkamalx14's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkamalx14&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
