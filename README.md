@@ -14,7 +14,7 @@
 
 - 👯 I’m eager to collaborate on **Open Source Projects**, contributing to the community and growing alongside fellow developers.
 
-- 👨‍💻 You can explore all of my projects in **[My GitHub Repository](https://github.com/mahmoudkamalx14?tab=repositories)**.
+- 👨‍💻 You can explore all of my projects in **[My GitHub Repository](https://github.com/mahmoudkamal14?tab=repositories)**.
 
 - 📫 Feel free to reach out to me on **[Facebook](https://www.facebook.com/mahmoudkamalx14)** for inquiries, collaboration, or just to connect!.
   
@@ -30,17 +30,17 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-    <a href="https://github.com/mahmoudkamalx14">
-        <img title="🔥 Get streak stats for your profile" alt="mahmoudkamalx14's streak" src="https://streak-stats.demolab.com?user=mahmoudkamalx14&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/mahmoudkamal14">
+        <img title="🔥 Get streak stats for your profile" alt="mahmoudkamal14's streak" src="https://streak-stats.demolab.com?user=mahmoudkamal14&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 <p align="center">
-    <a href="https://github.com/mahmoudkamalx14">
-        <img alt="mahmoudkamalx14's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudkamalx14&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=0D1117,1e293b,0D1117&title_color=38bdf8&icon_color=14b8a6&text_color=cbd5e1" />
+    <a href="https://github.com/mahmoudkamal14">
+        <img alt="mahmoudkamal14's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudkamal14&show_icons=true&count_private=true&theme=tokyonight&hide_border=false&bg_color=0D1117,1e293b,0D1117&title_color=38bdf8&icon_color=14b8a6&text_color=cbd5e1" />
     </a>
-    <a href="https://github.com/mahmoudkamalx14">
-        <img alt="mahmoudkamalx14's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkamalx14&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <a href="https://github.com/mahmoudkamal14">
+        <img alt="mahmoudkamal14's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudkamal14&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
     </a>
 </p>
 
@@ -57,7 +57,7 @@
 <br/>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mahmoudkamalx14}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{mahmoudkamal14}/count.svg" /></p> 
 </div>
 
 ## 📫 Contact Me
